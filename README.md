@@ -1,2 +1,1 @@
-# TinDog
-Tinder for dogs Frontend Project
+TinDog Starting Files
